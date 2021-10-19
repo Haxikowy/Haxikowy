@@ -7,4 +7,4 @@
 
 ![codewars stats][codewars stats]
 
-[codewars stats]: https://www.codewars.com/users/Haxikowy/badges/large
+[codewars stats]: https://www.codewars.com/users/Haxikowy/badges/micro
